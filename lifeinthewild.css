@@ -11,8 +11,8 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 4px solid maroon;
-  border-right: 4px solid maroon;
+  border-bottom: 4px solid seagreen;
+  border-right: 4px solid seagreen;
   width: 400px;
   text-align: center;
   -moz-box-shadow: 4px 4px 5px #888888;
