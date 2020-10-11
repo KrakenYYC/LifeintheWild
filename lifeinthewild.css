@@ -1,5 +1,5 @@
 body {
-  margin: 4px;
+  margin: 0px;
 }
 
 .container {
@@ -11,8 +11,8 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 4px solid seagreen;
-  border-right: 4px solid seagreen;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
   width: 400px;
   text-align: center;
   -moz-box-shadow: 4px 4px 5px #888888;
@@ -24,8 +24,8 @@ h1 {
 }
 
 img {
-  width: 200px;
-  height: 150px;
+  width: 600px;
+  height: 400px;
   margin: 10px;
   transition: all 1s;
 }
