@@ -1,5 +1,5 @@
 body {
-  margin: 0px;
+  margin: 10px;
 }
 
 .container {
@@ -11,8 +11,10 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 2px solid pink;
-  border-right: 2px solid pink;
+  border-bottom: 2px solid seagreen;
+  border-right: 2px solid seagreen;
+  background-color: #888888;
+  color: navy;
   width: 400px;
   text-align: center;
   -moz-box-shadow: 4px 4px 5px #888888;
