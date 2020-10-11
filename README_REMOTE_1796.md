@@ -1,2 +1,0 @@
-# LifeintheWild
-Simple Block Animation
