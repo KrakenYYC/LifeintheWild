@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   margin: 4px;
 }
@@ -33,3 +34,40 @@ img {
 img:hover {
   transform: scale(1.1);
 }
+=======
+body {
+  margin: 4px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 3em;
+  border-bottom: 4px solid seagreen;
+  border-right: 4px solid seagreen;
+  width: 400px;
+  text-align: center;
+  -moz-box-shadow: 4px 4px 5px #888888;
+  -ms-box-shadow: 4px 4px 5px #888888;
+  -webkit-box-shadow: 4px 4px 5px #888888;
+  -o-box-shadow: 4px 4px 5px #888888;
+  box-shadow: 4px 4px 5px #888888;
+  margin-top: 10px;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  transition: all 1s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+>>>>>>> 39a7ea08fb689882105a23aec90cdc0d0583a677
