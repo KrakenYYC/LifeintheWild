@@ -11,8 +11,8 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 2px solid seagreen;
-  border-right: 2px solid seagreen;
+  border-bottom: 2px solid rgb(21, 69, 70);
+  border-right: 2px solid rgb(21, 69, 70);
   background-color: #888888;
   color: navy;
   width: 400px;
